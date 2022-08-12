@@ -8,7 +8,7 @@
 		"build": "webpack --config webpack.prod.js"
 	},
 	"author": "Voxelcubes Studios",
-	"license": "UNLICENSED",
+	"license": "MIT",
 	"devDependencies": {
 		"@babel/core": "^7.17.10",
 		"@babel/preset-env": "^7.17.10",
